@@ -1,0 +1,12 @@
+**/bin/*
+**/.ipynb_checkpoints/*
+**/figs/*
+**/data/*
+**/results/*
+**/__pycache__/*
+**/*.pkl
+**/*.dat
+**/*.rda
+**/*.png
+**/*.pyc
+**/*.csv
